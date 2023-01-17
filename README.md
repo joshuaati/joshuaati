@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Joshua, I am a Data Analyst in Nigeria
 <!--
 **joshuaati/joshuaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
