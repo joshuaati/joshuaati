@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Joshua, I am a Data Analyst in Nigeria
+I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data Engineering. I have a passion for Python and providing Data driven insights to businesses. 
 <!--
 **joshuaati/joshuaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
