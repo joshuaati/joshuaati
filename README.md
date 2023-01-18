@@ -12,8 +12,7 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
           
           
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaati&show_icons=true&bg_color=00000000)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaati)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuaati&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **joshuaati/joshuaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
