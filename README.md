@@ -7,7 +7,8 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
  
  
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <i class="devicon-fastapi-plain colored"></i>
+          
           
 <!--
 **joshuaati/joshuaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
