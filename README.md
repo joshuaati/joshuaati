@@ -5,9 +5,9 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
 - 🌱 I’m currently learning Data Engineering by taking courses on DataCamp and Data Engineering Zoomcamp by DataTalks
 - 👯 I’m looking to collaborate on projects that involve big data. Preferably using PySpark, AIrflow and any Cloud Services such as GCP or AWS
  
- 
- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40"/>
+ ---
+ #### My current Tech Stack
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50"/>
           
           
 <!--
