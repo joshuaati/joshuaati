@@ -7,10 +7,14 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
  
  ---
  #### My current Tech Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50"/>
           
           
           
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaati&show_icons=true&bg_color=00000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuaati)](https://git.io/streak-stats)
+
 <!--
 **joshuaati/joshuaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
