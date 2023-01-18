@@ -7,7 +7,7 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
  
  
  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40"/>
           
           
 <!--
