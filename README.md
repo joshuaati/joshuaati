@@ -7,7 +7,7 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
  
  
  
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
           
           
 <!--
