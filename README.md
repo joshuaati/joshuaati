@@ -7,7 +7,7 @@ I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data 
  
  ---
  #### My current Tech Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="50" width="50"/>
           
           
           
