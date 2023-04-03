@@ -2,7 +2,7 @@
 I'm Joshua, I am a Data Analyst in Nigeria currently pursuing knowledge in Data Engineering. I have a passion for Python and providing Data driven insights to businesses. 
 
 
-- 🌱 I’m currently learning Data Engineering by taking courses on DataCamp and Data Engineering Zoomcamp by DataTalks. Everyday I get to see the awesomeness of Python
+- 🌱 I’m currently learning Data Engineering and doing a project from taking courses on DataCamp and Data Engineering Zoomcamp by DataTalks. 
 - 👯 I’m looking to collaborate on projects that involve big data. Preferably using PySpark, AIrflow and any Cloud Services such as GCP or AWS
  
  ---
